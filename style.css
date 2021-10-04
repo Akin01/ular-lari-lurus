@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+canvas {
+  margin-top: 60px;
+  border: 2px solid white;
+  box-shadow: 0 0 5px gray;
+}
